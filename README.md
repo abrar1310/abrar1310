@@ -1,4 +1,4 @@
-# Hi, I'm Abrar Soufi ✨❤
+# Hi, I'm Abrar Soufi 
 👩‍💻 Flutter Developer | 🛠️ Mobile Application Developer (Flutter / Android)
 
 I’m passionate about building beautiful and performant mobile applications.  
