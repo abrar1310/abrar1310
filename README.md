@@ -28,7 +28,7 @@ I love exploring new technologies, solving challenging problems, and continuousl
 ---
 
 ## 🔗 Connect with Me
-[![Medium](https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/)  
+[![Medium](https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@abrarsoufi1310)  
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:abrarsoufi1310@gmail.com)
 
 ---
